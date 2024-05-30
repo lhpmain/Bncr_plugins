@@ -34,5 +34,5 @@ jobs:
           git commit -m '由Actions自动生成插件市场所需JSON索引'
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           
