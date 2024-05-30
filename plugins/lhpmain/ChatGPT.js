@@ -1,10 +1,10 @@
-/** 
- * @author lhpmain
+/**
+ * @author Merrick
  * @name ChatGPT
- * @origin lhpmain
+ * @origin Merrick
  * @version 1.0.4
  * @description ChatGpt聊天，适配无界3.0
- * @team lhpmain
+ * @team Merrick
  * @rule ^(ai|画图) ([\s\S]+)$
  * @rule ^(ai)$
  * @admin true

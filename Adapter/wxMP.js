@@ -1,9 +1,9 @@
 /**
- * @author lhpmain
+ * @author Merrick
  * @name wxMP
  * @version 1.0.4
  * @description 微信公众号适配器
- * @team lhpmain
+ * @team Merrick
  * @adapter true
  * @public true
  * @disable false
