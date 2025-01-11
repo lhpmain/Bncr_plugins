@@ -1,8 +1,8 @@
 /**
- * @author Doraemon
+ * @author lhpmain
  * @name 命令大全
  * @origin lhpmain
- * @team lhpmain
+ * @team Lhpmain
  * @version 1.0.0
  * @description 无界命令大全
  * @rule ^(菜单1)$
