@@ -62,26 +62,5 @@
     "isEncPlugin": true,
     "id": "OvjXxITbzp+N/xpVaiDl829D5kw=",
     "isChatPlugin": true
-  },
-  "CZRNSvmhMFgjdfQvxEpBuw/WzKg=": {
-    "type": "github",
-    "name": "菜单",
-    "author": "lhpmain",
-    "team": "lhpmain",
-    "version": "1.0",
-    "description": "私人定制",
-    "classification": [
-      "私人定制菜单命令"
-    ],
-    "filename": "菜单.js",
-    "fileDir": "/plugins/lhpmain/菜单.js",
-    "systemVersionRange": "",
-    "isCron": false,
-    "isMod": false,
-    "isService": false,
-    "isAuthentication": false,
-    "isEncPlugin": false,
-    "id": "CZRNSvmhMFgjdfQvxEpBuw/WzKg=",
-    "isChatPlugin": true
   }
 }
